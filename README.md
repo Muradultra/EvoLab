@@ -22,4 +22,4 @@ EvoWave Dynamic Lab is a web-based RF filter design and analysis tool for engine
 - Implement zoom/pan interactivity and preset filter configurations.
 - Create a desktop version using Electron.
 
-**Contact**: [Your Name] – [Your Email] – [Your LinkedIn or Portfolio Link]
+**Contact**: [Murad Irshaid] – [muradelmeqdad@gmail.com] – [www.linkedin.com/in/murad-irshaid-016b04251]
